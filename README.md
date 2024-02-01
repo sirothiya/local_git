@@ -1,3 +1,3 @@
 
 
-This is my readme file to be used for topics covered
+This is my README file 
